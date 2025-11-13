@@ -15,7 +15,7 @@ Tvým úkolem nakódovat **responzivní** stránku:
 
 ## Mobilní verze
 
-**Kartička**
+<!-- **Kartička**
 - mezi kartičkami jsou mezery `30px` nebo použij připravenou proměnnou `--desert-spacing`
 - má zakulacené rohy s poloměrem `12px` nebo použij připravenou proměnnou `--radius`.
 - kartička pro každý zákusek má jinak barevný stín
@@ -26,9 +26,9 @@ Tvým úkolem nakódovat **responzivní** stránku:
 - místo `BARVA` ale pro každou kartičku dosaď adekvátní barvu z připravených proměnných. Takže napříplak pro jahodový dort bude CSS vypadat následovně:
   ```css
   box-shadow: 3px 5px 30px var(--strawberry-shadow-color);
-  ```
-
-**Obrázek**
+  ``` --> -->
+s
+<!-- **Obrázek**
 - roztahuje se přes celou šířku kartičky
 - nezapomeň na obrázek zapnout `display: block;`, jinak se ti bude pod obrázkem dělat malá mezera
 
@@ -57,7 +57,7 @@ Tvým úkolem nakódovat **responzivní** stránku:
 - zobrazují se 4 stejně široké kartičky vedle sebe
 
 
-## BONUS
+<!-- ## BONUS
 
 - ve složce *images* jsou připraveny i jiné varianty obrázku, než čtvercový, který jsme používali doposud
 - napadá tě, jak použít značku `<picture>` a zobrazit pomocí ní jiný obrázky pro každou responzivní variantu, aby bylo rozložení pro uživatele příjemnější? (aby např. v mobilní verzi nezabíral obrázek tolik místa na výšku)
@@ -80,4 +80,4 @@ Podívej se na video ve *ukazka-responzivniho-chovani.mp4* ve složce s projekte
 
 ## Ukázka výsledku - DESKTOP
 
-![ukázka výsledku mobil](ukazka-vysledku-desktop.png)
+![ukázka výsledku mobil](ukazka-vysledku-desktop.png) -->
